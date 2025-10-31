@@ -1,0 +1,36 @@
+{
+  "name": "bajaj-finserv-chatbot",
+  "version": "1.0.0",
+  "description": "AI-powered financial chatbot for Bajaj Finserv quarterly earnings analysis",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@langchain/openai": "^0.3.0",
+    "@pinecone-database/pinecone": "^3.0.0",
+    "ai": "^3.4.0",
+    "langchain": "^0.3.0",
+    "next": "14.2.0",
+    "openai": "^4.65.0",
+    "pdf-parse": "^1.1.1",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,15 @@
+# Screenshot Placeholders
+
+Please add your actual screenshot images here:
+
+1. chatbot-main.png - Take screenshot of main chatbot interface after running app
+2. chat-response.png - Screenshot showing AI responding to a query
+3. mobile-view.png - Screenshot of mobile responsive view
+
+To generate screenshots:
+1. Run: npm run dev
+2. Open: http://localhost:3000
+3. Use browser's screenshot tool or Snipping Tool
+4. Save images in this directory
+
+The README.md file references these images.
